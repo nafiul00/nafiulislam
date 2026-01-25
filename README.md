@@ -32,7 +32,7 @@
 
 <!-- Animated Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300">
 </p>
 
 ## 🎯 Who Am I?
@@ -70,7 +70,7 @@ I build end-to-end solutions that transform how companies handle data—from col
 </td>
 <td width="40%">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="90%">
 
 <br/>
 
@@ -103,7 +103,7 @@ I build end-to-end solutions that transform how companies handle data—from col
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="90%">
 
 </td>
 </tr>
@@ -199,7 +199,7 @@ I build end-to-end solutions that transform how companies handle data—from col
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 <br/>
@@ -399,7 +399,7 @@ Instead of each department building their own reports, I created a **unified, in
 </td>
 <td width="40%">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="90%">
 
 <br/><br/>
 
@@ -517,7 +517,7 @@ Instead of each department building their own reports, I created a **unified, in
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
 </div>
 
 <br/>
@@ -577,7 +577,7 @@ Today's cutting edge is tomorrow's baseline
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400">
 
 <br/><br/>
 
@@ -614,7 +614,7 @@ Today's cutting edge is tomorrow's baseline
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="90%">
 
 </div>
 
