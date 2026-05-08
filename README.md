@@ -8,7 +8,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&multiline=true&width=820&height=110&lines=Data+Analyst+%E2%80%A2+Automation+Engineer+%E2%80%A2+UI+Designer;Building+AI-Powered+Business+Intelligence+Systems;Turning+Raw+Data+into+Decisions+That+Drive+Revenue;Open+to+Collaborate+%E2%80%A2+Always+Shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=820&height=60&lines=Data+Analyst+%E2%80%A2+Automation+Engineer+%E2%80%A2+UI+Designer;Building+AI-Powered+Business+Intelligence+Systems;Turning+Raw+Data+into+Decisions+That+Drive+Revenue;Open+to+Collaborate+%E2%80%A2+Always+Shipping" />
 </a>
 
 <br/>
@@ -137,7 +137,7 @@ End-to-end solutions that transform how companies handle data — from collectio
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-
+  
 *The toolkit I reach for when building intelligent, automated systems.*
 
 <br/>
